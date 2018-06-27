@@ -15,10 +15,10 @@
 1 . Clone this repo to anywhere on your computer.
 
 ```bash
-git clone https://github.com/jesperorb/json-server-heroku.git
+git clone https://github.com/nomanalikhan/customer-management-system-backend.git
 ```
 
-2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git. 
+2 . Change `db.json` to **your own content** according to the [`json-server example`](https://github.com/typicode/json-server#example) and then `commit` your changes to git.
 
 _this example will create `/posts` route , each resource will have `id`, `title` and `content`. `id` will auto increment!_
 ```json
